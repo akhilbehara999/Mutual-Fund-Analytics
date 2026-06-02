@@ -1,0 +1,5 @@
+Data Quality Validation Report
+==============================
+Total schemes in fund_master: 6
+Total schemes in nav_history: 6
+SUCCESS: Every scheme code in fund_master exists in nav_history.
